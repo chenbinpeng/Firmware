@@ -54,6 +54,8 @@ set(config_module_list
 	drivers/lis3mdl
 	#drivers/iridiumsbd
 	drivers/ulanding
+	#cbp add 	20171013
+	drivers/l10
 
 	#
 	# System commands
