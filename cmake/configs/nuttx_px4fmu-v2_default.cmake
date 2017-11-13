@@ -44,7 +44,7 @@ set(config_module_list
 	drivers/frsky_telemetry
 	modules/sensors
 	#drivers/mkblctrl
-	drivers/px4flow
+	#drivers/px4flow
 	#drivers/oreoled
 	drivers/vmount
 	drivers/pwm_input
@@ -56,6 +56,8 @@ set(config_module_list
 	drivers/ulanding
 	#cbp add 	20171013
 	drivers/l10
+	#cbp add 	20171102
+	drivers/jeilin_flow
 
 	#
 	# System commands
